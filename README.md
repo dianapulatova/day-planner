@@ -4,4 +4,4 @@ https://dianapulatova.github.io/day-planner/
 
 https://github.com/dianapulatova/day-planner
 
-![](img/filenamework-day-scheduler.png)
+![](img/work-day-scheduler.png)
